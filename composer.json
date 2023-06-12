@@ -1,0 +1,15 @@
+{
+    "name": "cedrickmarie/pdo",
+    "autoload": {
+        "psr-4": {
+            "Cedrickmarie\\Pdo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Cardamced",
+            "email": "120644423+Cardamced@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
